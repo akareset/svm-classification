@@ -4,9 +4,6 @@ This repository contains a Jupyter Notebook (`Rosenblats perceptrone.ipynb`) dem
 ![SVM Decision Boundary Animation](SVM2.gif) ![RP Decision Boundary Animation](decision_boundary2.gif)
 
 
-
-This project aimgis to provide a clear and concise understanding of two fundamental classification algorithms:
-
 This project aims to provide a clear and concise understanding of two fundamental classification algorithms:
 
 * **Rosenblatt's Perceptron:** A simple linear classifier that iteratively updates its weights to minimize misclassifications.
