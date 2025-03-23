@@ -1,5 +1,4 @@
 # svm-classification
-Сlassification using SVM and Rosenblatts perceptrone
 
 This repository contains a Jupyter Notebook (`Rosenblats perceptrone.ipynb`) demonstrating the implementation of Rosenblatt's Perceptron and a Support Vector Machine (SVM) for binary classification.  The notebook visualizes the decision boundary learned by each algorithm, including an animation of the perceptron's learning process.
 ![SVM Decision Boundary Animation](SVM2.gif) ![RP Decision Boundary Animation](decision_boundary2.gif)
